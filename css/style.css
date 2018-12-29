@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.wrap{
+	width: 80%;
+	outline: 1px solid red;
+	margin: 0 auto;
+	text-align: center;
+}
+.img_mini{
+	margin-bottom: 20px;
+	outline: 1px solid red;
+}
+.img{
+	width: 75px;
+	height: 75px;
+}
+p{
+	font-size: 16pt;
+	color: rgba(51, 51, 51, 255);
+}
